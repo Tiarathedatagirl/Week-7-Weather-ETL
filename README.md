@@ -42,8 +42,8 @@ The transformed data was saved as `weather_data.csv` for storage and further ana
 7. Compared temperatures, humidity levels, and weather conditions across the three cities.
 ## Key Findings
 
-- Lagos recorded the highest temperature at 27.41°C.
-- Abuja recorded the highest humidity at 80%.
+- Lagos recorded the highest temperature at 26.30°C.
+- Lagos recorded the highest humidity at 80%.
 - Lagos had broken clouds.
-- Abuja had light rain.
+- Abuja had scattered clouds.
 - London had overcast clouds.
